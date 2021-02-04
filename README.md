@@ -20,13 +20,13 @@ Lista dos videos para meu acompanhamento
 
 [*][6. ReactJS Tutorial - 6 - Class Components](https://www.youtube.com/watch?v=lnV34uLEzis)
 
-[ ][7. ReactJS Tutorial - 7 - Hooks Update](https://www.youtube.com/watch?v=oecI26cWqzk)
+[*][7. ReactJS Tutorial - 7 - Hooks Update](https://www.youtube.com/watch?v=oecI26cWqzk)
 
-[ ][8. ReactJS Tutorial - 8 - JSX](https://www.youtube.com/watch?v=7fPXI_MnBOY)
+[*][8. ReactJS Tutorial - 8 - JSX](https://www.youtube.com/watch?v=7fPXI_MnBOY)
 
-[ ][9. ReactJS Tutorial - 9 - Props](https://www.youtube.com/watch?v=m7OWXtbiXX8)
+[*][9. ReactJS Tutorial - 9 - Props](https://www.youtube.com/watch?v=m7OWXtbiXX8)
 
-[ ][10. ReactJS Tutorial - 10 - State](https://www.youtube.com/watch?v=4ORZ1GmjaMc)
+[*][10. ReactJS Tutorial - 10 - State](https://www.youtube.com/watch?v=4ORZ1GmjaMc)
 
 [ ][11. ReactJS Tutorial - 11 - setState](https://www.youtube.com/watch?v=uirRaVjRsf4)
 

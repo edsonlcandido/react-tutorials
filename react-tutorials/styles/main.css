@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 /**
  * modified version of eric meyer's reset 2.0
  * http://meyerweb.com/eric/tools/css/reset/
@@ -399,5 +400,9 @@ template {
  */
 [hidden] {
   display: none;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
