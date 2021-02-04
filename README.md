@@ -10,15 +10,15 @@ Lista dos videos para meu acompanhamento
 
 [*][1. ReactJS Tutorial - 1 - Introduction](https://www.youtube.com/watch?v=QFaFIcGhPoM)
 
-[ ][2. ReactJS Tutorial - 2 - Hello World](https://www.youtube.com/watch?v=9hb_0TZ_MVI)
+[*][2. ReactJS Tutorial - 2 - Hello World](https://www.youtube.com/watch?v=9hb_0TZ_MVI)
 
-[ ][3. ReactJS Tutorial - 3 - Folder Structure](https://www.youtube.com/watch?v=9VIiLJL0H4Y)
+[*][3. ReactJS Tutorial - 3 - Folder Structure](https://www.youtube.com/watch?v=9VIiLJL0H4Y)
 
-[ ][4. ReactJS Tutorial - 4 - Components](https://www.youtube.com/watch?v=Y2hgEGPzTZY)
+[*][4. ReactJS Tutorial - 4 - Components](https://www.youtube.com/watch?v=Y2hgEGPzTZY)
 
-[ ][5. ReactJS Tutorial - 5 - Functional Components](https://www.youtube.com/watch?v=Cla1WwguArA)
+[*][5. ReactJS Tutorial - 5 - Functional Components](https://www.youtube.com/watch?v=Cla1WwguArA)
 
-[ ][6. ReactJS Tutorial - 6 - Class Components](https://www.youtube.com/watch?v=lnV34uLEzis)
+[*][6. ReactJS Tutorial - 6 - Class Components](https://www.youtube.com/watch?v=lnV34uLEzis)
 
 [ ][7. ReactJS Tutorial - 7 - Hooks Update](https://www.youtube.com/watch?v=oecI26cWqzk)
 
