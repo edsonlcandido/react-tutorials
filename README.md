@@ -28,15 +28,15 @@ Lista dos videos para meu acompanhamento
 
 [*][10. ReactJS Tutorial - 10 - State](https://www.youtube.com/watch?v=4ORZ1GmjaMc)
 
-[ ][11. ReactJS Tutorial - 11 - setState](https://www.youtube.com/watch?v=uirRaVjRsf4)
+[*][11. ReactJS Tutorial - 11 - setState](https://www.youtube.com/watch?v=uirRaVjRsf4)
 
-[ ][12. ReactJS Tutorial - 12 - Destructuring props and state](https://www.youtube.com/watch?v=5_PdMS9CLLI)
+[*][12. ReactJS Tutorial - 12 - Destructuring props and state](https://www.youtube.com/watch?v=5_PdMS9CLLI)
 
-[ ][13. ReactJS Tutorial - 13 - Event Handling](https://www.youtube.com/watch?v=Znqv84xi8Vs)
+[*][13. ReactJS Tutorial - 13 - Event Handling](https://www.youtube.com/watch?v=Znqv84xi8Vs)
 
-[ ][14. ReactJS Tutorial - 14 - Binding Event Handlers](https://www.youtube.com/watch?v=kVWpBtRjkCk)
+[*][14. ReactJS Tutorial - 14 - Binding Event Handlers](https://www.youtube.com/watch?v=kVWpBtRjkCk)
 
-[ ][15. ReactJS Tutorial - 15 - Methods as props](https://www.youtube.com/watch?v=QpfyjwhY9kg)
+[*][15. ReactJS Tutorial - 15 - Methods as props](https://www.youtube.com/watch?v=QpfyjwhY9kg)
 
 [ ][16. ReactJS Tutorial - 16 - Conditional Rendering](https://www.youtube.com/watch?v=7o5FPaVA9m0)
 
