@@ -6,6 +6,7 @@ import Counter from  '../components/Counter'
 import FunctionClick from '../components/FunctionClick'
 import ClassClick from  '../components/ClassClick'
 import {EventBinding} from '../components/EventBinding'
+import ParentComponent from '../components/ParentComponent'
 
 export default function Index() {
   return (
@@ -26,7 +27,8 @@ export default function Index() {
       {/* <Counter/> */}
       {/* <FunctionClick/> */}
       {/* <ClassClick/> */}
-      <EventBinding></EventBinding>
+      {/* <EventBinding/> */}
+      <ParentComponent/>
     </>
   )
 }
