@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Greet from '../components/Greet'
 import Welcome from '../components/Welcome'
 import Message from '../components/Message'
+import Counter from  '../components/Counter'
 
 export default function Index() {
   return (
@@ -18,7 +19,8 @@ export default function Index() {
       {/* <Welcome name="Hal Jordan" heroName="green lantern">
         <p>Children in a class component</p>   
       </Welcome> */}
-      <Message/>
+      {/* <Message/> */}
+      <Counter/>
     </>
   )
 }
