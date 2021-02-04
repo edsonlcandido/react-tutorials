@@ -3,6 +3,9 @@ import Greet from '../components/Greet'
 import Welcome from '../components/Welcome'
 import Message from '../components/Message'
 import Counter from  '../components/Counter'
+import FunctionClick from '../components/FunctionClick'
+import ClassClick from  '../components/ClassClick'
+import {EventBinding} from '../components/EventBinding'
 
 export default function Index() {
   return (
@@ -20,7 +23,10 @@ export default function Index() {
         <p>Children in a class component</p>   
       </Welcome> */}
       {/* <Message/> */}
-      <Counter/>
+      {/* <Counter/> */}
+      {/* <FunctionClick/> */}
+      {/* <ClassClick/> */}
+      <EventBinding></EventBinding>
     </>
   )
 }
