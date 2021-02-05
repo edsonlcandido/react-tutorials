@@ -22,6 +22,7 @@ export default function Index() {
       <ul>
         <li><a href={`${baseUrl}/usergreeting`}>User Greeting</a></li>
         <li><a href={`${baseUrl}/namelist`}>Name List</a></li>
+        <li><a href={`${baseUrl}/form-styling`}>Form Styling</a></li>
       </ul>      
       
       {/* <Greet name="Bruce" heroName="batman">
