@@ -7,6 +7,8 @@ import FunctionClick from '../components/FunctionClick'
 import ClassClick from  '../components/ClassClick'
 import {EventBinding} from '../components/EventBinding'
 import ParentComponent from '../components/ParentComponent'
+import UserGreeting from '../components/UserGreting'
+import NameList from '../components/NameList'
 
 export default function Index() {
   return (
@@ -28,7 +30,9 @@ export default function Index() {
       {/* <FunctionClick/> */}
       {/* <ClassClick/> */}
       {/* <EventBinding/> */}
-      <ParentComponent/>
+      {/* <ParentComponent/> */}
+      {/* <UserGreeting/> */}
+      <NameList/>
     </>
   )
 }

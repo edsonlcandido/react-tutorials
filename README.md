@@ -38,13 +38,13 @@ Lista dos videos para meu acompanhamento
 
 [*][15. ReactJS Tutorial - 15 - Methods as props](https://www.youtube.com/watch?v=QpfyjwhY9kg)
 
-[ ][16. ReactJS Tutorial - 16 - Conditional Rendering](https://www.youtube.com/watch?v=7o5FPaVA9m0)
+[*][16. ReactJS Tutorial - 16 - Conditional Rendering](https://www.youtube.com/watch?v=7o5FPaVA9m0)
 
-[ ][17. ReactJS Tutorial - 17 - List Rendering](https://www.youtube.com/watch?v=5s8Ol9uw-yM)
+[*][17. ReactJS Tutorial - 17 - List Rendering](https://www.youtube.com/watch?v=5s8Ol9uw-yM)
 
-[ ][18. ReactJS Tutorial - 18 - Lists and Keys](https://www.youtube.com/watch?v=0sasRxl35_8)
+[*][18. ReactJS Tutorial - 18 - Lists and Keys](https://www.youtube.com/watch?v=0sasRxl35_8)
 
-[ ][19. ReactJS Tutorial - 19 - Index as Key Anti-pattern](https://www.youtube.com/watch?v=xlPxnc5uUPQ)
+[*][19. ReactJS Tutorial - 19 - Index as Key Anti-pattern](https://www.youtube.com/watch?v=xlPxnc5uUPQ)
 
 [ ][20. ReactJS Tutorial - 20 - Styling and CSS Basics](https://www.youtube.com/watch?v=j5P9FHiBVNo)
 
