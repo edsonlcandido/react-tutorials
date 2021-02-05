@@ -46,9 +46,9 @@ Lista dos videos para meu acompanhamento
 
 [*][19. ReactJS Tutorial - 19 - Index as Key Anti-pattern](https://www.youtube.com/watch?v=xlPxnc5uUPQ)
 
-[ ][20. ReactJS Tutorial - 20 - Styling and CSS Basics](https://www.youtube.com/watch?v=j5P9FHiBVNo)
+[*][20. ReactJS Tutorial - 20 - Styling and CSS Basics](https://www.youtube.com/watch?v=j5P9FHiBVNo)
 
-[ ][21. ReactJS Tutorial - 21 - Basics of Form Handling](https://www.youtube.com/watch?v=7Vo_VCcWupQ)
+[*][21. ReactJS Tutorial - 21 - Basics of Form Handling](https://www.youtube.com/watch?v=7Vo_VCcWupQ)
 
 [ ][22. ReactJS Tutorial - 22 - Component Lifecycle Methods](https://www.youtube.com/watch?v=qnN_FuFNq2g)
 
