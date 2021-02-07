@@ -9,8 +9,9 @@ export default function Index() {
       </Head>
       <ul>
         <li><a href="/components-demo">Components Demo</a></li>
-        <li>Advanced Guide Demo</li>
-        <li>Lifecycle Demo</li>
+        <li><a href="/lifecycle">Lifecycle Demo</a></li>
+        <li><a href="/advanced-guide-demo">Advanced Guide Demo</a></li>
+        <li>React hooks</li>
       </ul>
     </>
   )
