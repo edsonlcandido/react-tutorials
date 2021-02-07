@@ -50,49 +50,49 @@ Lista dos videos para meu acompanhamento
 
 [*][21. ReactJS Tutorial - 21 - Basics of Form Handling](https://www.youtube.com/watch?v=7Vo_VCcWupQ)
 
-[ ][22. ReactJS Tutorial - 22 - Component Lifecycle Methods](https://www.youtube.com/watch?v=qnN_FuFNq2g)
+[*][22. ReactJS Tutorial - 22 - Component Lifecycle Methods](https://www.youtube.com/watch?v=qnN_FuFNq2g)
 
-[ ][23. ReactJS Tutorial - 23 - Component Mounting Lifecycle Methods](https://www.youtube.com/watch?v=KDXZibVdiEI)
+[*][23. ReactJS Tutorial - 23 - Component Mounting Lifecycle Methods](https://www.youtube.com/watch?v=KDXZibVdiEI)
 
-[ ][24. ReactJS Tutorial - 24 - Component Updating Lifecycle Methods](https://www.youtube.com/watch?v=DyPkojd1fas)
+[*][24. ReactJS Tutorial - 24 - Component Updating Lifecycle Methods](https://www.youtube.com/watch?v=DyPkojd1fas)
 
-[ ][25. ReactJS Tutorial - 25 - Fragments](https://www.youtube.com/watch?v=bHdh1T0-US4)
+[*][25. ReactJS Tutorial - 25 - Fragments](https://www.youtube.com/watch?v=bHdh1T0-US4)
 
-[ ][26. ReactJS Tutorial - 26 - Pure Components](https://www.youtube.com/watch?v=YCRuTT31qR0)
+[*][26. ReactJS Tutorial - 26 - Pure Components](https://www.youtube.com/watch?v=YCRuTT31qR0)
 
-[ ][27. ReactJS Tutorial - 27 - memo](https://www.youtube.com/watch?v=7TaBhrnPH78)
+[*][27. ReactJS Tutorial - 27 - memo](https://www.youtube.com/watch?v=7TaBhrnPH78)
 
-[ ][28. ReactJS Tutorial - 28 - Refs](https://www.youtube.com/watch?v=FXa9mMTKOu8)
+[*][28. ReactJS Tutorial - 28 - Refs](https://www.youtube.com/watch?v=FXa9mMTKOu8)
 
-[ ][29. ReactJS Tutorial - 29 - Refs with Class Components](https://www.youtube.com/watch?v=8aCXVC9Qmto)
+[*][29. ReactJS Tutorial - 29 - Refs with Class Components](https://www.youtube.com/watch?v=8aCXVC9Qmto)
 
-[ ][30. ReactJS Tutorial - 30 - Forwarding Refs](https://www.youtube.com/watch?v=RLWniwmfdq4)
+[*][30. ReactJS Tutorial - 30 - Forwarding Refs](https://www.youtube.com/watch?v=RLWniwmfdq4)
 
-[ ][31. ReactJS Tutorial - 31 - Portals](https://www.youtube.com/watch?v=HpHLa-5Wdys)
+[*][31. ReactJS Tutorial - 31 - Portals](https://www.youtube.com/watch?v=HpHLa-5Wdys)
 
-[ ][32. ReactJS Tutorial - 32 - Error Boundary](https://www.youtube.com/watch?v=DNYXgtZBRPE)
+[*][32. ReactJS Tutorial - 32 - Error Boundary](https://www.youtube.com/watch?v=DNYXgtZBRPE)
 
-[ ][33. ReactJS Tutorial - 33 - Higher Order Components (Part 1)](https://www.youtube.com/watch?v=B6aNv8nkUSw)
+[*][33. ReactJS Tutorial - 33 - Higher Order Components (Part 1)](https://www.youtube.com/watch?v=B6aNv8nkUSw)
 
-[ ][34. ReactJS Tutorial - 34 - Higher Order Components (Part 2)](https://www.youtube.com/watch?v=rsBQj6X7UK8)
+[*][34. ReactJS Tutorial - 34 - Higher Order Components (Part 2)](https://www.youtube.com/watch?v=rsBQj6X7UK8)
 
-[ ][35. ReactJS Tutorial - 35 - Higher Order Components (Part 3)](https://www.youtube.com/watch?v=l8V59zIdBXU)
+[*][35. ReactJS Tutorial - 35 - Higher Order Components (Part 3)](https://www.youtube.com/watch?v=l8V59zIdBXU)
 
-[ ][36. ReactJS Tutorial - 36 - Render Props (Part 1)](https://www.youtube.com/watch?v=NdapMDgNhtE)
+[*][36. ReactJS Tutorial - 36 - Render Props (Part 1)](https://www.youtube.com/watch?v=NdapMDgNhtE)
 
-[ ][37. ReactJS Tutorial - 37 - Render Props (Part 2)](https://www.youtube.com/watch?v=EZil2OTyB4w)
+[*][37. ReactJS Tutorial - 37 - Render Props (Part 2)](https://www.youtube.com/watch?v=EZil2OTyB4w)
 
-[ ][38. ReactJS Tutorial - 38 - Context (Part 1)](https://www.youtube.com/watch?v=j3j8St50fNY)
+[*][38. ReactJS Tutorial - 38 - Context (Part 1)](https://www.youtube.com/watch?v=j3j8St50fNY)
 
-[ ][39. ReactJS Tutorial - 39 - Context (Part 2)](https://www.youtube.com/watch?v=lTjQjWemKgE)
+[*][39. ReactJS Tutorial - 39 - Context (Part 2)](https://www.youtube.com/watch?v=lTjQjWemKgE)
 
-[ ][40. ReactJS Tutorial - 40 - Context (Part 3)](https://www.youtube.com/watch?v=A9WlkhdLnn0)
+[*][40. ReactJS Tutorial - 40 - Context (Part 3)](https://www.youtube.com/watch?v=A9WlkhdLnn0)
 
-[ ][41. ReactJS Tutorial - 41 - HTTP and React](https://www.youtube.com/watch?v=GTmjthNvrxY)
+[*][41. ReactJS Tutorial - 41 - HTTP and React](https://www.youtube.com/watch?v=GTmjthNvrxY)
 
-[ ][42. ReactJS Tutorial - 42 - HTTP GET Request](https://www.youtube.com/watch?v=NEYrSUM4Umw)
+[*][42. ReactJS Tutorial - 42 - HTTP GET Request](https://www.youtube.com/watch?v=NEYrSUM4Umw)
 
-[ ][43. ReactJS Tutorial - 43 - HTTP Post Request](https://www.youtube.com/watch?v=x9UEDRbLhJE)
+[*][43. ReactJS Tutorial - 43 - HTTP Post Request](https://www.youtube.com/watch?v=x9UEDRbLhJE)
 
 [ ][44. React Hooks Tutorial - 1 - Introduction45. React Hooks Tutorial - 2 - useState Hook](https://www.youtube.com/watch?v=cF2lQ_gZeA8)
 
