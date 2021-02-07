@@ -5,7 +5,7 @@ export default function Index() {
     return (
       <>
         <Head>
-          <title>React Tutorials - UserGretting</title>
+          <title>React Tutorials - Styling and Form</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <FormStyling/>       
